@@ -1,0 +1,14 @@
+#include <stdio.h>
+int main(){
+int a=16;
+int b=20;
+int c=2;
+if(c==1)
+return a+b;
+if(c==2)
+return a-b;
+if(c==3)
+return a*b;
+if(c==4)
+return a/b;
+}
